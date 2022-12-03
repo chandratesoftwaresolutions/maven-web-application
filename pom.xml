@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Chandra Technologies Releases Nexus Repository</name>
-	      <url>http://15.207.84.143:9640/chandrasoftwaresolutions/repository/web-application-release/</url>
+	      <url>http://13.232.243.76:9640/chandrasoftwaresolutions/repository/web-application-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Chandra Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.207.84.143:9640/chandrasoftwaresolutions/repository/web-application-snapshot/</url>
+	      <url>http://13.232.243.76:9640/chandrasoftwaresolutions/repository/web-application-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
