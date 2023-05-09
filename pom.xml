@@ -15,7 +15,7 @@
 		<name>Chandra Software Solutions</name>
 		<url>http://chandratechnologies.com/</url>
 	</organization>
-
+          <!-- update the sonarqube details here -->
 	<properties>
 		<jdk.version>1.8</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
